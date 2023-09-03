@@ -1,0 +1,5106 @@
+{
+  "name": "Magisk Repository [Modulostk]",
+  "metadata": {
+    "version": 1,
+    "timestamp": 1693749503.349302
+  },
+  "modules": [
+    {
+      "id": "AFWall-Boot-AntiLeak",
+      "name": "AFWall Boot AntiLeak",
+      "version": "v1.3",
+      "versionCode": 4,
+      "author": "GrayJackFixxxer",
+      "description": "A module to prevent internet access on boot BEFORE AfWall started and applied",
+      "track": {
+        "type": "GIT",
+        "added": 1680541843.891351,
+        "license": "GPL-3.0",
+        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1640525162.0,
+          "version": "v1.3",
+          "versionCode": 4,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "AIST",
+      "name": "AIST for devices based on Qualcomm",
+      "version": "v1.9",
+      "versionCode": 71,
+      "author": "Oleg_Skalskiy",
+      "description": "This module Improving Audio Quality On Android & System Tweaks (optional).",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1690310128.298422,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309755.375532,
+          "version": "v1.9",
+          "versionCode": 71,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_71.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ANRTM",
+      "name": "ANR Timeout Multiplier",
+      "version": "v0.2",
+      "versionCode": 2,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Increases ANR (Application Not Responding) timeout annoying pops-up in Android 12 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691695.177669,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1686282590.0,
+          "version": "v0.2",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ANRTM/v0.2_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "AdGuardDNS4Magisk",
+      "name": "AdGuardDNS4Magisk",
+      "version": "v2.7f",
+      "versionCode": 27,
+      "author": "Rom, TukangM",
+      "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541839.65951,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1683124699.0,
+          "version": "v2.7f",
+          "versionCode": 27,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AdGuardDNS4Magisk/v2.7f_27.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "AdGuardDNS4Magisk-IPv6",
+      "name": "AdGuardDNS4Magisk-IPv6",
+      "version": "v2.7f",
+      "versionCode": 27,
+      "author": "Rom, TukangM",
+      "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541841.682238,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1678892176.0,
+          "version": "v2.7f",
+          "versionCode": 27,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AdGuardDNS4Magisk-IPv6/v2.7f_27.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Atmos",
+      "name": "Dolby Atmos Magic Revision",
+      "version": "v2.15",
+      "versionCode": 25,
+      "author": "Rei Ryuki the Fixer",
+      "description": "An EQ global type soundfx ported by Little Monk reworked for any Android 4.2 and up. Powered by Dolby Surround (DS).",
+      "track": {
+        "type": "GIT",
+        "added": 1690223084.094087,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218654.8440053,
+          "version": "v2.13",
+          "versionCode": 23,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.13_23.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1687254613.0,
+          "version": "v2.15",
+          "versionCode": 25,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.15_25.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Better-MIUI-Icons",
+      "name": "Better MIUI Icons",
+      "version": "MIUI12 v1",
+      "versionCode": 1,
+      "author": "SpicyChair",
+      "description": "Systemlessly install the nice icons from MiRoom to any MIUI 12-based ROM.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541853.25358,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1615045465.0,
+          "version": "MIUI12 v1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Better-MIUI-Icons/MIUI12_v1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Bootanimation",
+      "name": "Google Bootanimation",
+      "version": "1",
+      "versionCode": 1,
+      "author": "Kingsman44",
+      "description": "Adds Google bootanimation 1080p",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310143.447732,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309947.562639,
+          "version": "1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Bootanimation/1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "BraviaEngine",
+      "name": "Sony Bravia Engine",
+      "version": "v4.0.4",
+      "versionCode": 4,
+      "author": "Enggar Sulistyo",
+      "description": "The Sony Mobile Bravia Engine X-Reality Super Vivid.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541855.305427,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1644775126.0,
+          "version": "v4.0.4",
+          "versionCode": 4,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/BraviaEngine/v4.0.4_4.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "BuiltIn-BusyBox",
+      "name": "Magisk built-in BusyBox",
+      "version": "1.0.7",
+      "versionCode": 107,
+      "author": "zgfg @ xda",
+      "description": "Systemless BusyBox symlinked to the Magisk built-in busybox binary",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541856.891051,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1686205026.0,
+          "version": "1.0.6",
+          "versionCode": 106,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/BuiltIn-BusyBox/1.0.6_106.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/BuiltIn-BusyBox/1.0.6_106.md"
+        },
+        {
+          "timestamp": 1691527282.0,
+          "version": "1.0.7",
+          "versionCode": 107,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/BuiltIn-BusyBox/1.0.7_107.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/BuiltIn-BusyBox/1.0.7_107.md"
+        }
+      ]
+    },
+    {
+      "id": "CHARGEX",
+      "name": "CHARGEX",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "Voltes5369",
+      "description": "Simply enables fast charge of some compatible Devices",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690219068.377419,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218703.4945326,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/CHARGEX/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Cheetah_Prop",
+      "name": "Pixel 7 Pro (CHEETAH) Prop",
+      "version": "2023-07-05",
+      "versionCode": 230705,
+      "author": "imortal_ginlgo",
+      "description": "Spoof your device to CHEETAH pixel prop Android 14 ",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310135.237338,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309987.637254,
+          "version": "2023-07-05",
+          "versionCode": 230705,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Cheetah_Prop/2023-07-05_230705.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Clash4Magisk",
+      "name": "Clash for Magisk",
+      "version": "1.13.0",
+      "versionCode": 101300022,
+      "author": "Kry9toN",
+      "description": "Clash meta core with service scripts for Android.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541867.483523,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1663827433.0,
+          "version": "1.13.0",
+          "versionCode": 101300022,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Clash4Magisk/1.13.0_101300022.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Clash4Magisk/1.13.0_101300022.md"
+        }
+      ]
+    },
+    {
+      "id": "Closelogd",
+      "name": "Close Logd",
+      "version": "v7",
+      "versionCode": 7,
+      "author": "\u65e7\u68a6",
+      "description": "Turned off logd service, turned off edxposed+magisk+miui internal desktop logging, turned off MIUI kernel logging (from water dragon), added 5 seconds on boot to kill logd service (\u6765\u6e90\u4e8escene@\u611f\u8c22\u561f\u561f\u65af\u57fa), added useless wifi log cleanup+disable, and additionally added metaphysical standby optimization.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225366.756245,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223603.554096,
+          "version": "v7",
+          "versionCode": 7,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Closelogd/v7_7.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "CloudflareDNS4Magisk",
+      "name": "CloudflareDNS4Magisk",
+      "version": "v2.7",
+      "versionCode": 27,
+      "author": "Rom",
+      "description": "Using the new Cloudflare DNS system-lessly! As simple as that.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541868.910362,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1644450020.0,
+          "version": "v2.7",
+          "versionCode": 27,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/CloudflareDNS4Magisk/v2.7_27.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "CloudflareDNS4Magisk-IPv6",
+      "name": "CloudflareDNS4Magisk-IPv6",
+      "version": "v2.7",
+      "versionCode": 27,
+      "author": "Rom",
+      "description": "Using the Cloudflare DNS system-lessly! As simple as that.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541870.970941,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673388915.0,
+          "version": "v2.7",
+          "versionCode": 27,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "CustomizedNavbar",
+      "name": "Customized Navbar",
+      "version": "3.2",
+      "versionCode": 5,
+      "author": "Pycm [4PDA]",
+      "description": "Change Navbar Gesture Indicator color to match the theme's accent color, increase wide and thickness",
+      "track": {
+        "type": "GIT",
+        "added": 1680541879.470619,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1680734245.0,
+          "version": "3.2",
+          "versionCode": 5,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/CustomizedNavbar/3.2_5.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/CustomizedNavbar/3.2_5.md"
+        }
+      ]
+    },
+    {
+      "id": "DalvikHyperthreading",
+      "name": "DalvikHyperthreading",
+      "version": "v2",
+      "versionCode": 2,
+      "author": "@LeanHijosdesusMadres [telegram]",
+      "description": "This does is helps the multithread line to tell the cpu to easily do more faster proccessing without overheating.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541881.414948,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673728563.0,
+          "version": "v2",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DalvikHyperthreading/v2_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Detach",
+      "name": "Detach",
+      "version": "v5.3",
+      "versionCode": 530,
+      "author": "hinxnz, Rom, Sobuj53",
+      "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541887.662185,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1645534294.0,
+          "version": "v5.3",
+          "versionCode": 530,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Detach/v5.3_530.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "DolbyAtmos",
+      "name": "Dolby Atmos Moto G52",
+      "version": "v1.9",
+      "versionCode": 19,
+      "author": "Rei Ryuki the Fixer",
+      "description": "An equalizer global type soundfx ported from Motorola G52 (rhode) for any Android 11 and up, 64 bit architecture.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691452.13209,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687262744.0,
+          "version": "v1.8",
+          "versionCode": 18,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAtmos/v1.8_18.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693302804.0,
+          "version": "v1.9",
+          "versionCode": 19,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAtmos/v1.9_19.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "DolbyAudio",
+      "name": "Dolby Audio Moto G Pro",
+      "version": "v6.2",
+      "versionCode": 62,
+      "author": "Rei Ryuki the Fixer",
+      "description": "An equalizer global type soundfx ported from Motorola G Pro (sofiap_sprout) for any Android 9 and up, 64 bit architecture.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691347.332125,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687267145.0,
+          "version": "v6.1",
+          "versionCode": 61,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.1_61.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693328350.0,
+          "version": "v6.2",
+          "versionCode": 62,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.2_62.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "EXTEND",
+      "name": "MIUI EXTEND",
+      "version": "2.5",
+      "versionCode": 25,
+      "author": "Minhhai",
+      "description": "T\u1ed1i \u01b0u ho\u00e1 h\u1ec7 th\u1ed1ng v\u00e0 m\u00e1y b\u1ea1n tr\u1edf n\u00ean tr\u01a1n tru",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310149.422645,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690310068.8944786,
+          "version": "2.5",
+          "versionCode": 25,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/EXTEND/2.5_25.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "EvoMem",
+      "name": "Memory Evolution Lite",
+      "version": "v3.3.2",
+      "versionCode": 3302,
+      "author": "\u6b23\u604b",
+      "description": "I am optimizing memory! \u2022 @modulostk [telegram]",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225391.476836,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223566.6337292,
+          "version": "v3.3.2",
+          "versionCode": 3302,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/EvoMem/v3.3.2_3302.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Fdroid-Priv",
+      "name": "F-Droid Privileged Extension",
+      "version": "Version 0.2.13",
+      "versionCode": 20220314,
+      "author": "entr0pia@GitHub",
+      "description": "Installs F-Droid Privileged Extension systemlessly",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541902.617836,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1647226419.0,
+          "version": "Version 0.2.13",
+          "versionCode": 20220314,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Fdroid-Priv/Version_0.2.13_20220314.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Fdroid-Priv/Version_0.2.13_20220314.md"
+        }
+      ]
+    },
+    {
+      "id": "Flipendo",
+      "name": "Flipendo [Extreme Battery Saver]",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Flipendo [Extreme Battery Saver] For A13 Only",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310137.9586,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309961.7785776,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Flipendo/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "GMSDoze",
+      "name": "GMS Doze",
+      "version": "v1.4A",
+      "versionCode": 140,
+      "author": "CrazybytesVE",
+      "description": "Aplica Doze a los Google Play Services (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541915.965666,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1683468066.0,
+          "version": "v1.4A",
+          "versionCode": 140,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GMSDoze/v1.4A_140.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/GMSDoze/v1.4A_140.md"
+        }
+      ]
+    },
+    {
+      "id": "GMSDozeBlockFind",
+      "name": "GMS Doze (Bloquea \"Find My Device\")",
+      "version": "v1.4B",
+      "versionCode": 141,
+      "author": "CrazybytesVE",
+      "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versi\u00f3n bloquea 'Find My Device' de Google.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541914.42378,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1683468277.0,
+          "version": "v1.4B",
+          "versionCode": 141,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GMSDozeBlockFind/v1.4B_141.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/GMSDozeBlockFind/v1.4B_141.md"
+        }
+      ]
+    },
+    {
+      "id": "GPUTurboBoost",
+      "name": "GPU Turbo Boost",
+      "version": "6.2",
+      "versionCode": 620,
+      "author": "EmperorEye1993 @ xda-developers",
+      "description": "This module aims to increase Android powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223087.395867,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218885.8449538,
+          "version": "6.2",
+          "versionCode": 620,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GPUTurboBoost/6.2_620.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "GPhotoEraser",
+      "name": "G-Photo Eraser",
+      "version": "1.0",
+      "versionCode": 1,
+      "author": "Hafizd",
+      "description": "Enable G-Photo Magic eraser",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310139.33268,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309983.3965168,
+          "version": "1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GPhotoEraser/1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "GSNO",
+      "name": "GODSPEED NET OPTIMIZER",
+      "version": "8",
+      "versionCode": 9,
+      "author": "@revWhiteShadow@tg",
+      "description": "FIX PING ISSUE ON ONLINE GAMES AND OPTIMISE NET SPEED",
+      "track": {
+        "type": "GIT",
+        "added": 1690428294.374239,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1692692761.0,
+          "version": "8",
+          "versionCode": 9,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GSNO/8_9.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "GSPHL",
+      "name": "GODSPEED PHOENIX LITE",
+      "version": "3",
+      "versionCode": 999,
+      "author": "@revWhiteShadow@tg",
+      "description": "burn with Phoenix | @godTspeed @godspeedmode at telegram",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690428294.374239,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690426522.8626077,
+          "version": "3",
+          "versionCode": 999,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GSPHL/3_999.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "GameSpace",
+      "name": "GameSpace [risingOS]",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Replace GameSpace From Any Custom Rom To GameSpace [risingOS] A13 Only",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310140.679376,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309777.5855312,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GameSpace/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Google-Sans",
+      "name": "Google Sans",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "SourajitK",
+      "description": "Apply Google Sans everywhere, systemlessly.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541918.690187,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1598228686.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Google-Sans/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Google-Sans-Plus",
+      "name": "Google Sans Plus",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "SourajitK",
+      "description": "Apply Google Sans everywhere, systemlessly. (also contains leaked A11 emojis)",
+      "track": {
+        "type": "GIT",
+        "added": 1680541920.944197,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1598227265.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Google-Sans-Plus/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Greenify4Magisk",
+      "name": "Greenify4Magisk",
+      "version": "v4.5.1 (BETA)",
+      "versionCode": 72,
+      "author": "Abacate123",
+      "description": "A very simple module to make Greenify work as a privileged app, to achieve a faster hibernation performance, systemlessly.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223089.037489,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223448.1378932,
+          "version": "v4.5.1 (BETA)",
+          "versionCode": 72,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Greenify4Magisk/v4.5.1_BETA_72.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "HEXEditor",
+      "name": "HEX Editor",
+      "version": "v1.10",
+      "versionCode": 10,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Bypasses security restrictions for HEX Editor app.",
+      "track": {
+        "type": "GIT",
+        "added": 1693731732.40423,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690337939.0,
+          "version": "v1.10",
+          "versionCode": 10,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HEXEditor/v1.10_10.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "HenBz",
+      "name": "HenBz AI",
+      "version": "1.0 Beta",
+      "versionCode": 10,
+      "author": "HenBz 2.0",
+      "description": " | beta version HenBz AI tweaks auto mode |",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1693130775.562665,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693130549.4949694,
+          "version": "1.0 Beta",
+          "versionCode": 10,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HenBz/1.0_Beta_10.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "HideNavBar",
+      "name": "Fullscreen/Immersive Gestures (Q-T)",
+      "version": "v22.0",
+      "versionCode": 56,
+      "author": "DanGLES3",
+      "description": "Customize Android 10-13's navigation gestures ",
+      "track": {
+        "type": "GIT",
+        "added": 1680541927.602163,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1672873450.0,
+          "version": "v21.0",
+          "versionCode": 55,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HideNavBar/v21.0_55.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1691819224.0,
+          "version": "v22.0",
+          "versionCode": 56,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HideNavBar/v22.0_56.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "IORap",
+      "name": "IORap Enabled",
+      "version": "v3",
+      "versionCode": 3,
+      "author": "@LeanHijosdesusMadres [telegram]",
+      "description": "IORap: is available from Android 11+, increases the launch speed of applications.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225380.075819,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223625.2097962,
+          "version": "v3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/IORap/v3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Kaguyagaming",
+      "name": "Kaguya Gaming AI 3.0",
+      "version": "v3.0 AI",
+      "versionCode": 30,
+      "author": "ZxyonQiy",
+      "description": "Module All in One for Your Gaming  and AI Cpu and Gpu Control,Joined My Channel for Next Update || @ZxyonQiyChnnel",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1693129237.541764,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693128815.9136636,
+          "version": "v3.0 AI",
+          "versionCode": 30,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Kaguyagaming/v3.0_AI_30.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Luz-Nocturna_Modded",
+      "name": "Luz Nocturna Modded",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "@CrazybytesVE",
+      "description": "Este m\u00f3dulo modifica los valores m\u00ednimos de \"Luz Nocturna\" para que sean menos c\u00e1lidos (menos amarillentos). .",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541936.064604,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1661027636.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Luz-Nocturna_Modded/v1.0_1.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Luz-Nocturna_Modded/v1.0_1.md"
+        }
+      ]
+    },
+    {
+      "id": "MAGNETAR",
+      "name": "MAGNETAR",
+      "version": "19.2.0 (UNIFORM)",
+      "versionCode": 190200,
+      "author": "Kyliekyler",
+      "description": "Device Performance Optimizer \u2014 Aims To Provide An Optimal Experience At Every Usage Scenario",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223095.712173,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218706.9075272,
+          "version": "19.2.0 (UNIFORM)",
+          "versionCode": 190200,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MAGNETAR/19.2.0_UNIFORM_190200.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MacRandomizationEnabler",
+      "name": "MacRandomizationEnabler",
+      "version": "v1",
+      "versionCode": 1,
+      "author": "63c",
+      "description": "Enable Mac Randomization on device's it's been left disabled.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541938.045765,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1598109398.0,
+          "version": "v1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MacRandomizationEnabler/v1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MiMusic",
+      "name": "Mi Music",
+      "version": "v2.8",
+      "versionCode": 18,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Music player app by Xiaomi MIUI ported for any Android 5 and up non-Miui ROM.",
+      "track": {
+        "type": "GIT",
+        "added": 1692679267.716156,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690554263.0,
+          "version": "v2.8",
+          "versionCode": 18,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiMusic/v2.8_18.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MiSound",
+      "name": "Mi Sound Redmi K40",
+      "version": "v2.8",
+      "versionCode": 28,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Equalizers global type soundfx by Xiaomi Inc. ported from Redmi K40 (alioth). Dolby Atmos EQ for any Android 11 and up. Mi Sound EQ for Miui ROM Android 8 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692689844.601682,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687276179.0,
+          "version": "v2.6",
+          "versionCode": 26,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v2.6_26.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693651198.0,
+          "version": "v2.8",
+          "versionCode": 28,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v2.8_28.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MiXplorer",
+      "name": "MiXplorer",
+      "version": "v6.63.1_B23042510",
+      "versionCode": 29,
+      "author": "Psk.It",
+      "description": "MiXplorer + all addons    ",
+      "track": {
+        "type": "GIT",
+        "added": 1680541958.835092,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1685699391.0,
+          "version": "v6.63.1_B23042510",
+          "versionCode": 29,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiXplorer/v6.63.1_B23042510_29.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MiuiCore",
+      "name": "Miui Core",
+      "version": "v4.17",
+      "versionCode": 47,
+      "author": "Rei Ryuki the Fixer",
+      "description": "System core framework library of Miui ROM ported from Xiaomi Mi 9 (cepheus) as a dependency of any Miui app and Miui Magisk Module for any Android 5 and up non-Miui ROM.",
+      "track": {
+        "type": "GIT",
+        "added": 1690252193.876082,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690200854.872133,
+          "version": "v4.12",
+          "versionCode": 42,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiCore/v4.12_42.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1692087543.0,
+          "version": "v4.17",
+          "versionCode": 47,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiCore/v4.17_47.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MiuiSecurity",
+      "name": "Miui Security",
+      "version": "v1.14",
+      "versionCode": 14,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Miui Security app by Xiaomi Inc. ported for any Android 5 and up non-Miui ROM.",
+      "track": {
+        "type": "GIT",
+        "added": 1690252195.282956,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690200871.579794,
+          "version": "v1.12",
+          "versionCode": 12,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSecurity/v1.12_12.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1692496122.0,
+          "version": "v1.14",
+          "versionCode": 14,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSecurity/v1.14_14.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MiuiSettingsMod",
+      "name": "Miui Settings Mod",
+      "version": "v0.3",
+      "versionCode": 3,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Settings app ported from Xiaomi Mi 9 as a dependency of any Miui app & Miui Magisk module for any Android 5 and up non-Miui ROM.",
+      "track": {
+        "type": "GIT",
+        "added": 1690252196.716621,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690200859.2422283,
+          "version": "v0.3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSettingsMod/v0.3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MotoWaves",
+      "name": "Moto Waves V2 Edge 20 Pro",
+      "version": "v0.4",
+      "versionCode": 4,
+      "author": "Rei Ryuki the Fixer",
+      "description": "An equalizer global type soundfx ported from Motorola Edge 20 Pro (pstar) for any Android 11 and above, architecture arm64 & arm.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691752.517222,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1685871448.0,
+          "version": "v0.3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MotoWaves/v0.3_3.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1692755905.0,
+          "version": "v0.4",
+          "versionCode": 4,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MotoWaves/v0.4_4.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "NavBar_Resize",
+      "name": "36DPI NavBar AOSP",
+      "version": "v1.1",
+      "versionCode": 11,
+      "author": "CrazyBytesVE",
+      "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541963.356864,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1661028127.0,
+          "version": "v1.1",
+          "versionCode": 11,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/NavBar_Resize/v1.1_11.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "NavBar_Resize_Miui10-11-12-13",
+      "name": "36DPI NavBar para Miui",
+      "version": "v2.0",
+      "versionCode": 2,
+      "author": "CrazyBytesVE",
+      "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible).",
+      "track": {
+        "type": "GIT",
+        "added": 1680541964.887119,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1665059184.0,
+          "version": "v2.0",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/NavBar_Resize_MIUI/v2.0_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Neribox",
+      "name": "Neribox",
+      "version": "2.6",
+      "versionCode": 20230902,
+      "author": "\u98ce\u53c8\u97f3\u7406Neri",
+      "description": "",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1693735538.68689,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693625032.0,
+          "version": "2.6",
+          "versionCode": 20230902,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.md"
+        }
+      ]
+    },
+    {
+      "id": "NoProcStatRestriction",
+      "name": "Remove /proc/stat restriction",
+      "version": "v0.0.2",
+      "versionCode": 2,
+      "author": "LY",
+      "description": "Remove /proc/stat restriction on Android O and above",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541968.256236,
+        "license": "WTFPL",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673519027.0,
+          "version": "v0.0.2",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/NoProcStatRestriction/v0.0.2_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "NoStorageRestrict",
+      "name": "NoStorageRestrict",
+      "version": "v5",
+      "versionCode": 6,
+      "author": "DanGLES3",
+      "description": "Disables the restriction of not being able to select certain folders (like downloads/sdcard) when prompted by apps",
+      "track": {
+        "type": "GIT",
+        "added": 1680541970.414424,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1679266482.0,
+          "version": "v5",
+          "versionCode": 6,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/NoStorageRestrict/v5_6.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "NovaInstaller",
+      "name": "NovaInstaller",
+      "version": "v1.1.3",
+      "versionCode": 113,
+      "author": "Minionguyjpro",
+      "description": "Installs the Nova Launcher to '/system/app/' on Android.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1693738685.544513,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690904240.0,
+          "version": "v1.1.3",
+          "versionCode": 113,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/NovaInstaller/v1.1.3_113.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/NovaInstaller/v1.1.3_113.md"
+        }
+      ]
+    },
+    {
+      "id": "OZOAudioCapture",
+      "name": "Nokia OZO Audio Capture OnePlus 9 Pro",
+      "version": "v0.4",
+      "versionCode": 4,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Pre Process type soundfx ported from OnePlus 9 Pro for Android 11 and up. Enhance your audio quality in audio/video recordings.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691803.825671,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1684297323.0,
+          "version": "v0.3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OZOAudioCapture/v0.3_3.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1692876383.0,
+          "version": "v0.4",
+          "versionCode": 4,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OZOAudioCapture/v0.4_4.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "OctaviLauncher_Port",
+      "name": "Systemless Octavi Launcher Port",
+      "version": "v2.0",
+      "versionCode": 2,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Change your launcher into Octavi Launcher for A13 Only",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310150.968117,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309923.129153,
+          "version": "v2.0",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OctaviLauncher_Port/v2.0_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "OneController",
+      "name": "1Controller - 1 Module to support all Controllers.",
+      "version": "v1.5.2",
+      "versionCode": 152,
+      "author": "Electric1447",
+      "description": "This module adds .kl file (keylayout) for Dualshock 4/3, Xbox Series X|S, Xbox One/S, Xbox 360.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541974.401325,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1624492127.0,
+          "version": "v1.5.2",
+          "versionCode": 152,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OneController/v1.5.2_152.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "OnePlus6Oxygen_22.J.62_debloater",
+      "name": "OxygenOS as /e/",
+      "version": "v0.0.1",
+      "versionCode": 30,
+      "author": "Psk.It",
+      "description": "OxygenOS -Google -Oneplus: less is more!",
+      "track": {
+        "type": "GIT",
+        "added": 1680541979.527799,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1643666484.0,
+          "version": "v0.0.1",
+          "versionCode": 30,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OnePlus6Oxygen_22.J.62_debloater/v0.0.1_30.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "OneUIHome",
+      "name": "One UI Home",
+      "version": "v1.12",
+      "versionCode": 12,
+      "author": "Rei Ryuki the Fixer",
+      "description": "One UI Home launcher app by Samsung Electronics Co., Ltd. ported for any Android 8 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692686790.554855,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687585548.0,
+          "version": "v1.12",
+          "versionCode": 12,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.12_12.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
+      "name": "Plex \"Skip Intro\" DPad Controller Fix",
+      "version": "v1",
+      "versionCode": 1,
+      "author": "OhMyBahGosh",
+      "description": "Magisk module that maps key code 28 to \"DPAD_ENTER\" instead of \"ENTER\".  This allows for the DPad \"OK\" button to work properly, so that when you press the \"OK\" button, it actually presses the \"Skip Intro\" button.  This fixes a very annoying, and long ignored issue encountered when using a DPad controller inside PLEX on Android TV.  Without this module, when you press the \"OK\" button on a DPad Controller when the \"Skip Intro\" button appears in plex, it'll bring up player controls instead of actually skipping the intro.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541988.735895,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1645367235.0,
+          "version": "v1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "PUIA13Theme",
+      "name": "PUI For A13&A14 Theme",
+      "version": "5.7.1",
+      "versionCode": 5710,
+      "author": "\u5929\u4f1e\u685c",
+      "description": "Support AOSP13-14&Custom Rom A13-14&Pixel A13-14",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310153.783216,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309771.3115833,
+          "version": "5.7.1",
+          "versionCode": 5710,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/PUIA13Theme/5.7.1_5710.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ParanoidLauncher_Port",
+      "name": "Systemless Paranoid Launcher Port",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Change your launcher into ParanoidLauncher for A13 Only",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310152.442877,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309917.2610526,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ParanoidLauncher_Port/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "PixelifyPhotos",
+      "name": "Google Photos Unlimited backup",
+      "version": "1.0-beta",
+      "versionCode": 1,
+      "author": "cuynu",
+      "description": "Adds Photos features and unlimited Google Photos original backup.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225373.535575,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223626.5948448,
+          "version": "1.0-beta",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/PixelifyPhotos/1.0-beta_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "QS_Rectangulares",
+      "name": "Quick Settings Modded",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "@CrazybytesVE",
+      "description": "Este m\u00f3dulo coloca los Quick Settings m\u00e1s rectangulares, con un fondo degradado.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541992.3419,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1660425389.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/QS_Rectangulares/v1.0_1.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/QS_Rectangulares/v1.0_1.md"
+        }
+      ]
+    },
+    {
+      "id": "Quad9DNS",
+      "name": "QUAD9 DNS for Magisk",
+      "version": "v1",
+      "versionCode": 1,
+      "author": "Rom, iAmWiz",
+      "description": "Using the Quad9 DNS system-lessy! As simple as that.",
+      "track": {
+        "type": "GIT",
+        "added": 1690223099.182567,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218893.332086,
+          "version": "v1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Quad9DNS/v1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "RTKS",
+      "name": "RaidenTweaks",
+      "version": "v4.6.6",
+      "versionCode": 466,
+      "author": "@raidenkkj",
+      "description": "Module focused on maximizing user experience, multiple profiles you can change!",
+      "track": {
+        "type": "GIT",
+        "added": 1680541994.369191,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1669914042.0,
+          "version": "v4.6.6",
+          "versionCode": 466,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/RTKS/v4.6.6_466.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/RTKS/v4.6.6_466.md"
+        }
+      ]
+    },
+    {
+      "id": "Reducemiui",
+      "name": "Reduce MIUI Project",
+      "version": "3.2",
+      "versionCode": 32,
+      "author": "\u96c4\u6c0f\u8001\u65b9 & \u963f\u5df4\u9171 & \u67da\u7a1a\u7684\u5b69\u7eb8",
+      "description": "Optimice los servicios del sistema, cierre algunos registros del sistema. Actualizadi:: 15/02/2023 Traducido por @modulostk [Telegram]",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225397.712807,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223592.7402167,
+          "version": "3.2",
+          "versionCode": 32,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Reducemiui/3.2_32.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "SQLite_Optimization",
+      "name": "SQLite Optimization",
+      "version": "1.1",
+      "versionCode": 114514,
+      "author": "\u540d\u5b50\u53d6\u5565",
+      "description": "Optimize the performance of SQLite. translated by @modulostk [telegram]",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225405.636839,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223619.945944,
+          "version": "1.1",
+          "versionCode": 114514,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SQLite_Optimization/1.1_114514.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "STRPxBOLT",
+      "name": "STRPxBOLT (FastChargeModule)",
+      "version": "v1.3",
+      "versionCode": 130,
+      "author": "CRANKV2",
+      "description": "STRP BOLT Is an Fast Charge Module | Use Termux to open Main Menu with 'su -c BOLT' | Use at your OWN RISK!",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223102.299476,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218839.0812795,
+          "version": "v1.3",
+          "versionCode": 130,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/STRPxBOLT/v1.3_130.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "SideslideCool",
+      "name": "Sideslide Cool",
+      "version": "v2.2",
+      "versionCode": 2,
+      "author": "\u9010\u68a6\u661f\u8fb0\u5927\u6d77",
+      "description": "Beautify sideslip for MIUI 14. translated by @modulostk",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225401.078105,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223597.839723,
+          "version": "v2.1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SideslideCool/v2.1_1.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1690223597.162904,
+          "version": "v2.2",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SideslideCool/v2.2_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "SomcGameEnhancer-Upgrade",
+      "name": "SomcGameEnhancer Upgrade",
+      "version": "v7.0.A.1.20",
+      "versionCode": 14681108,
+      "author": "entr0pia@GitHub",
+      "description": "Upgrade SomcGameEnhancer for Old Xperia Devices, Android 12 only",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680542001.843641,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1663296809.0,
+          "version": "v7.0.A.1.20",
+          "versionCode": 14681108,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.md"
+        }
+      ]
+    },
+    {
+      "id": "SoundAlive",
+      "name": "Sound Alive Samsung Galaxy A53 5G",
+      "version": "v0.5",
+      "versionCode": 5,
+      "author": "Rei Ryuki the Fixer",
+      "description": "An equalizer global type soundfx ported from Samsung Galaxy A53 5G (a53x) for any Android 5 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692689707.038869,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687538041.0,
+          "version": "v0.4",
+          "versionCode": 4,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.4_4.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693710036.0,
+          "version": "v0.5",
+          "versionCode": 5,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.5_5.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "SoundEnhancement",
+      "name": "Sound Enhancement Sony Xperia 10",
+      "version": "v7.3",
+      "versionCode": 73,
+      "author": "Rei Ryuki the Fixer",
+      "description": "EQ global type soundfx ported from Sony Xperia 10 (I4113) and Sony Xperia 1 II (XQ-AT51) for any Android 9 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692689786.00816,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687308301.0,
+          "version": "v7.2",
+          "versionCode": 72,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.2_72.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693647071.0,
+          "version": "v7.3",
+          "versionCode": 73,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.3_73.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "SystemlessDebloater",
+      "name": "Systemless Debloater",
+      "version": "1.5.3",
+      "versionCode": 153,
+      "author": "zgfg @ xda",
+      "description": "Select and debloat preinstalled system apps. Supported up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680542005.415533,
+        "license": "LGPL-2.1",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1683123396.0,
+          "version": "1.5.3",
+          "versionCode": 153,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.3_153.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.3_153.md"
+        }
+      ]
+    },
+    {
+      "id": "TaskerPrivileged",
+      "name": "Tasker Privileged",
+      "version": "v2.11",
+      "versionCode": 21,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Fixes some missing functionalities of Tasker app due to restrictions in newer Android API versions.",
+      "track": {
+        "type": "GIT",
+        "added": 1692684301.755861,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687590829.0,
+          "version": "v2.11",
+          "versionCode": 21,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/TaskerPrivileged/v2.11_21.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ThemedProject",
+      "name": "Themed Project",
+      "version": "23.08.09",
+      "versionCode": 230809,
+      "author": "Osanosa",
+      "description": "themed.pro",
+      "track": {
+        "type": "GIT",
+        "added": 1686562495.79584,
+        "license": "UNKNOWN",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1685660514.0,
+          "version": "23.06.02",
+          "versionCode": 230602,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.06.02_230602.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1689892735.0,
+          "version": "23.07.18",
+          "versionCode": 230718,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.07.18_230718.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1691610914.0,
+          "version": "23.08.09",
+          "versionCode": 230809,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.08.09_230809.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ToyBox-Ext",
+      "name": "ToyBox (Ext)",
+      "version": "1.0.9",
+      "versionCode": 109,
+      "author": "zgfg @ xda",
+      "description": "Additional toybox applets. SUPPORTED: ARMv7 and higher, all Android versions",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680542009.627047,
+        "license": "0BSD",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1678041567.0,
+          "version": "1.0.6",
+          "versionCode": 106,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.6_106.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.6_106.md"
+        },
+        {
+          "timestamp": 1686000966.0,
+          "version": "1.0.8",
+          "versionCode": 108,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.8_108.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.8_108.md"
+        },
+        {
+          "timestamp": 1691427222.0,
+          "version": "1.0.9",
+          "versionCode": 109,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.9_109.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.9_109.md"
+        }
+      ]
+    },
+    {
+      "id": "UbuntuFontVinaooo",
+      "name": "Ubuntu Font",
+      "version": "v1.0.1",
+      "versionCode": 1,
+      "author": "Vinicius Rubens Pedrinho",
+      "description": "Apply Ubuntu font systemless",
+      "track": {
+        "type": "GIT",
+        "added": 1686562507.674932,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1683467033.0,
+          "version": "v1.0.1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/UbuntuFontVinaooo/v1.0.1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Ultimate_Statusbar_icon_pack",
+      "name": "Ultimate Statusbar icon pack",
+      "version": "v3",
+      "versionCode": 3,
+      "author": "Jairaj @Jai_08 ",
+      "description": "Follow @cool_modules and @cool_modules69 for more, Go to display cutout under developer/display options to change wifi and signal and battery icons (10 sets present) ",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223105.342014,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218653.4151292,
+          "version": "v3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Ultimate_Statusbar_icon_pack/v3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "VH-FN",
+      "name": "Fix Notification",
+      "version": "1.7",
+      "versionCode": 1,
+      "author": "kakathic",
+      "description": "Fix delay notifications for android devices",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225369.798148,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223596.3501213,
+          "version": "1.7",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/VH-FN/1.7_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "VolumeBooster",
+      "name": "Volume Booster",
+      "version": "v0.2",
+      "versionCode": 2,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Increases maximum phone volumes.",
+      "track": {
+        "type": "GIT",
+        "added": 1692684217.511987,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687597798.0,
+          "version": "v0.2",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/VolumeBooster/v0.2_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "X_CACHE",
+      "name": "X-CACHE",
+      "version": "V 5.7",
+      "versionCode": 20,
+      "author": " Kutu Moba",
+      "description": " CLEAN ALL CACHE",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690218289.488334,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690217765.5800676,
+          "version": "V 5.7",
+          "versionCode": 20,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/X_CACHE/V_5.7_20.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "X_MOD",
+      "name": "X-MOD",
+      "version": "V 6.2",
+      "versionCode": 20,
+      "author": " Kutu Moba",
+      "description": " Governor Cpu Dan Gpu, I/O Scheduler, Zram, Thermal extreme & Strandar, Close App, game features, change screen resolution, Clean Cache. ( no tweaks, the choice depends on your device and kernel )",
+      "track": {
+        "type": "GIT",
+        "added": 1690200999.668817,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1689333891.0,
+          "version": "V 6.2",
+          "versionCode": 20,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/x-mod/V_6.2_20.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "XperiaMusic",
+      "name": "Xperia Music",
+      "version": "v3.2",
+      "versionCode": 22,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Music player app updatable Play Store version from Sony Mobile Communications Inc. for any Android 4.2 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692682473.991713,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687845819.0,
+          "version": "v3.2",
+          "versionCode": 22,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/XperiaMusic/v3.2_22.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "XtremeSensivity\ud83d\udd25",
+      "name": " XtremeSensivity\ud83d\udd25 @ModulOStk",
+      "version": "v5.0",
+      "versionCode": 10,
+      "author": "@jonathannjss",
+      "description": "Aumenta la sensibilidad y respuesta t\u00e1ctil a niveles extremos.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225148.443842,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218662.7341454,
+          "version": "v5.0",
+          "versionCode": 10,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/XtremeSensivity\ud83d\udd25/v5.0_10.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "YAKT",
+      "name": "Yet Another Kernel Tweaker",
+      "version": "v7",
+      "versionCode": 1,
+      "author": "NotZeetaa",
+      "description": "This modules tweaks your kernel parameters.",
+      "track": {
+        "type": "GIT",
+        "added": 1680542028.263412,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1679349492.0,
+          "version": "v7",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/YAKT/v7_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "YouTube",
+      "name": "YouTube Premium",
+      "version": "18.27.35",
+      "versionCode": 1,
+      "author": "Anhsnguyetj",
+      "description": "YouTube t\u1ed1t nh\u1ea5t b\u1ea1n c\u00f3 th\u1ec3 bi\u1ebft",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690304466.894236,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690326755.1477566,
+          "version": "18.27.35",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/YouTube/18.27.35_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ZRAMSwapConfigurator",
+      "name": "ZRAM Swap Configurator",
+      "version": "v1.16",
+      "versionCode": 16,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Configures your device ZRAM Swap disk.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691917.467656,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1684130177.0,
+          "version": "v1.15",
+          "versionCode": 15,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ZRAMSwapConfigurator/v1.15_15.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1692835356.0,
+          "version": "v1.16",
+          "versionCode": 16,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ZRAMSwapConfigurator/v1.16_16.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "acc",
+      "name": "Advanced Charging Controller (ACC)",
+      "version": "v2023.8.19",
+      "versionCode": 202308190,
+      "author": "VR25",
+      "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
+      "track": {
+        "type": "GIT",
+        "added": 1680541838.119451,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1654345622.0,
+          "version": "v2022.6.4",
+          "versionCode": 202206040,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/acc/v2022.6.4_202206040.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/acc/v2022.6.4_202206040.md"
+        },
+        {
+          "timestamp": 1687760775.0,
+          "version": "v2023.6.26",
+          "versionCode": 202306260,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/acc/v2023.6.26_202306260.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/acc/v2023.6.26_202306260.md"
+        },
+        {
+          "timestamp": 1692431280.0,
+          "version": "v2023.8.19",
+          "versionCode": 202308190,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/acc/v2023.8.19_202308190.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/acc/v2023.8.19_202308190.md"
+        }
+      ]
+    },
+    {
+      "id": "adb-ndk",
+      "name": "ADB & Fastboot for Android NDK",
+      "version": "1.0.41",
+      "versionCode": 104113,
+      "author": "osm0sis & Surge1223 @ xda-developers",
+      "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1680541683.0,
+          "version": "1.0.41",
+          "versionCode": 104109,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104109.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104109.md"
+        },
+        {
+          "timestamp": 1686557746.0,
+          "version": "1.0.41",
+          "versionCode": 104111,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104111.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104111.md"
+        },
+        {
+          "timestamp": 1693352052.0,
+          "version": "1.0.41",
+          "versionCode": 104112,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104112.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104112.md"
+        },
+        {
+          "timestamp": 1693724143.0,
+          "version": "1.0.41",
+          "versionCode": 104113,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104113.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104113.md"
+        }
+      ]
+    },
+    {
+      "id": "ainur_jamesdsp",
+      "name": "JamesDSP Manager",
+      "version": "v5.6 (8-8-2023)",
+      "versionCode": 95,
+      "author": "james34602, zackptg5, ahrion",
+      "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1693352488.924228,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693352948.773543,
+          "version": "v5.6 (8-8-2023)",
+          "versionCode": 95,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.6_8-8-2023_95.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.6_8-8-2023_95.md"
+        }
+      ]
+    },
+    {
+      "id": "asoul_affinity_opt",
+      "name": "A-SOUL Games Optimization",
+      "version": "A.28 (240)",
+      "versionCode": 240,
+      "author": "nakixii",
+      "description": "Game threads tweaker for Android.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1690225357.51293,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223593.522435,
+          "version": "A.24 (236)",
+          "versionCode": 236,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.24_236.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1692204521.0,
+          "version": "A.28 (240)",
+          "versionCode": 240,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.md"
+        }
+      ]
+    },
+    {
+      "id": "audio-jitter-silencer",
+      "name": "Audio jitter silencer",
+      "version": "v1.0.5",
+      "versionCode": 1005,
+      "author": "zyhk",
+      "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541846.392866,
+        "license": "AGPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1680505886.0,
+          "version": "v1.0.1",
+          "versionCode": 1001,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.1_1001.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1681206641.0,
+          "version": "v1.0.2",
+          "versionCode": 1002,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.2_1002.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.2_1002.md"
+        },
+        {
+          "timestamp": 1687682273.0,
+          "version": "v1.0.4",
+          "versionCode": 1004,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.4_1004.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.4_1004.md"
+        },
+        {
+          "timestamp": 1693302157.0,
+          "version": "v1.0.5",
+          "versionCode": 1005,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.5_1005.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.5_1005.md"
+        }
+      ]
+    },
+    {
+      "id": "audio-misc-settings",
+      "name": "Audio misc. settings",
+      "version": "v1.3.4",
+      "versionCode": 1304,
+      "author": "zyhk",
+      "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
+      "track": {
+        "type": "GIT",
+        "added": 1680541848.655087,
+        "license": "AGPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1688751967.0,
+          "version": "v1.3.3",
+          "versionCode": 1303,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-misc-settings/v1.3.3_1303.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-misc-settings/v1.3.3_1303.md"
+        },
+        {
+          "timestamp": 1691936900.0,
+          "version": "v1.3.4",
+          "versionCode": 1304,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-misc-settings/v1.3.4_1304.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-misc-settings/v1.3.4_1304.md"
+        }
+      ]
+    },
+    {
+      "id": "backup",
+      "name": "Backup",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "Draco",
+      "description": "An easy CLI backup tool without using a custom recovery.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541851.002999,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1599015487.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/backup/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "busybox-ndk",
+      "name": "Busybox for Android NDK",
+      "version": "1.36.1",
+      "versionCode": 13613,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static busybox binary for all Android architectures built with the NDK",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1680541591.0,
+          "version": "1.34.1",
+          "versionCode": 13413,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.34.1_13413.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.34.1_13413.md"
+        },
+        {
+          "timestamp": 1686557854.0,
+          "version": "1.36.1",
+          "versionCode": 13612,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13612.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13612.md"
+        },
+        {
+          "timestamp": 1693724045.0,
+          "version": "1.36.1",
+          "versionCode": 13613,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13613.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13613.md"
+        }
+      ]
+    },
+    {
+      "id": "byeshit",
+      "name": " \ud83d\ude2d \ud835\udc01\ud835\udc32\ud835\udc1e\ud835\udc12\ud835\udc21\ud835\udc22\ud835\udc2d \ud83d\ude2d",
+      "version": "v666.7",
+      "versionCode": 6667,
+      "author": "@nonosvaimos",
+      "description": " Disable shit from the device to have a better autonomy.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225360.738275,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223556.5297935,
+          "version": "v666.7",
+          "versionCode": 6667,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/byeshit/v666.7_6667.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "cache_cleaner",
+      "name": "Cache Cleaner",
+      "version": "v1.6-Stable",
+      "versionCode": 8,
+      "author": "Taka\ud83c\udf3f",
+      "description": "This module will clean all apps cache automatically if the total cache size is more than 1GB and can be done manually by typing \"su -c cleaner\" in the Terminal.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310133.862172,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309973.1135724,
+          "version": "v1.6-Stable",
+          "versionCode": 8,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/cache_cleaner/v1.6-Stable_8.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ccbins",
+      "name": "Cross Compiled Binaries",
+      "version": "v11",
+      "versionCode": 16,
+      "author": "Zackptg5",
+      "description": "A growing collection of cross compiled binaries for android",
+      "track": {
+        "type": "GIT",
+        "added": 1693352435.30546,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1691966533.0,
+          "version": "v11",
+          "versionCode": 16,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ccbins/v11_16.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "charch",
+      "name": "ChArch",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "tytydraco",
+      "description": "An Android-patched Magisk Module implementation of ChArch.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541858.886285,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1638831717.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/charch/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "charch_dinit",
+      "name": "ChArch Dinit",
+      "version": "v1.1",
+      "versionCode": 2,
+      "author": "supangat",
+      "description": "Initialize Dinit init for the default ChArch rootfs instance.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541861.100776,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1648456059.0,
+          "version": "v1.1",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/charch_dinit/v1.1_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "charch_openrc",
+      "name": "ChArch OpenRC",
+      "version": "v1.1",
+      "versionCode": 2,
+      "author": "tytydraco",
+      "description": "Initialize OpenRC for the default ChArch rootfs instance.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541863.228826,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1600642258.0,
+          "version": "v1.1",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/charch_openrc/v1.1_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "charch_sshd",
+      "name": "ChArch SSHD",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "tytydraco",
+      "description": "Initialize SSHD for the default ChArch rootfs instance.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541865.81606,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1600642223.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/charch_sshd/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "cmdpatch",
+      "name": "CMD Patch",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "tytydraco",
+      "description": "An Android Linux Kernel command line patch tool using Magisk's magiskboot binary.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541873.124456,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1598574218.0,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/cmdpatch/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "cocon_font_module",
+      "name": "Cocon-Regular",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Cocon Font by \ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765 ( TG @AMRGAMAL1 )",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310136.593094,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309967.5478835,
+          "version": "v1.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/cocon_font_module/v1.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "com.omergoktas.Foundation",
+      "name": "Foundation",
+      "version": "v1.2",
+      "versionCode": 102,
+      "author": "omergoktas",
+      "description": "Magisk module comprising essential apps (including a patched version of Google Play Store compatible with microG) and convenient settings for vanilla Android builds.",
+      "track": {
+        "type": "GIT",
+        "added": 1686562280.852298,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673549110.0,
+          "version": "v1.2",
+          "versionCode": 102,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/com.omergoktas.Foundation/v1.2_102.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "custom-certificate-authorities",
+      "name": "Custom Certificate Authorities",
+      "version": "v1.0.1",
+      "versionCode": 101,
+      "author": "whalehub (admin@datahoarder.dev)",
+      "description": "This module adds custom certificate authorities from a pre-defined path on the Android file system to the system trust store.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541876.963847,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1644751003.0,
+          "version": "v1.0.1",
+          "versionCode": 101,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/custom-certificate-authorities/v1.0.1_101.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "data_backup",
+      "name": "Data backup creator",
+      "version": "v2.14",
+      "versionCode": 7,
+      "author": "ziand",
+      "description": "Data backup creator for restoring by data_restore.zip from or Magisk module installer or TWRP",
+      "track": {
+        "type": "GIT",
+        "added": 1680541883.465463,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1686425610.0,
+          "version": "v2.14",
+          "versionCode": 7,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/data_backup/v2.14_7.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/data_backup/v2.14_7.md"
+        }
+      ]
+    },
+    {
+      "id": "data_isolation_support",
+      "name": "AppDataIsolation Legacy Support",
+      "version": "1.2",
+      "versionCode": 3,
+      "author": "HuskyDG",
+      "description": "Enable /data/data isolation for old Android version (Android 10 and lower). Require Magisk process monitor tool v1.1+",
+      "track": {
+        "type": "GIT",
+        "added": 1680541885.513692,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1670983400.0,
+          "version": "1.2",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/data_isolation_support/1.2_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "diracmisoundfxRemover",
+      "name": "dirac & misoundfx Remover",
+      "version": "v0.3",
+      "versionCode": 3,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Removes dirac & misoundfx and their apps.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691518.757745,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1686479799.0,
+          "version": "v0.2",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/diracmisoundfxRemover/v0.2_2.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693126963.0,
+          "version": "v0.3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/diracmisoundfxRemover/v0.3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "drc-remover",
+      "name": "DRC remover",
+      "version": "v1.2.1",
+      "versionCode": 1201,
+      "author": "zyhk",
+      "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541892.066052,
+        "license": "AGPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1683473028.0,
+          "version": "v1.2.1",
+          "versionCode": 1201,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/drc-remover/v1.2.1_1201.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/drc-remover/v1.2.1_1201.md"
+        }
+      ]
+    },
+    {
+      "id": "ezme-dex-space",
+      "name": "Space saving Ahead-of-Time",
+      "version": "v1",
+      "versionCode": 1000,
+      "author": "ez-me",
+      "description": "Changes how Android's dex2oat compiles packages to save space, rather than focus on speed. ",
+      "track": {
+        "type": "GIT",
+        "added": 1680541896.05897,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1662814335.0,
+          "version": "v1",
+          "versionCode": 1000,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ezme-dex-space/v1_1000.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ezme-nodebug",
+      "name": "Hide UserDebug, Test-Keys and LineageOS",
+      "version": "v1",
+      "versionCode": 1000,
+      "author": "ez-me",
+      "description": "Change some props and \"remove\" LineageOS ones",
+      "track": {
+        "type": "GIT",
+        "added": 1680541898.004424,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1663012287.0,
+          "version": "v1",
+          "versionCode": 1000,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ezme-nodebug/v1_1000.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "font-koruri-n",
+      "name": "Koruri Font",
+      "version": "v25",
+      "versionCode": 25,
+      "author": "lindwurm,AndroPlus",
+      "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541945.829714,
+        "license": "WTFPL",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1677543460.0,
+          "version": "v25",
+          "versionCode": 25,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk-module-koruri-font/v25_25.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/magisk-module-koruri-font/v25_25.md"
+        }
+      ]
+    },
+    {
+      "id": "font-mejiro-oshi",
+      "name": "Mejiro Font",
+      "version": "v19",
+      "versionCode": 19,
+      "author": "AndroPlus",
+      "description": "Mejiro font patch for Japanese users.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541947.365189,
+        "license": "WTFPL",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1677543320.0,
+          "version": "v19",
+          "versionCode": 19,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk-module-mejiro-font/v19_19.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/magisk-module-mejiro-font/v19_19.md"
+        }
+      ]
+    },
+    {
+      "id": "frozen_magisk_app",
+      "name": "Frozen Magisk app",
+      "version": "1.2",
+      "versionCode": 3,
+      "author": "HuskyDG",
+      "description": "Dynamic freezing Magisk app. Process Monitor Tool v2.1+ is required for this module to work.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541906.610466,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673245267.0,
+          "version": "1.2",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/frozen_magisk_app/1.2_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "name": "GAMING\u4e5bMode",
+      "version": "vFINAL",
+      "versionCode": 5,
+      "author": "AkiraSuper",
+      "description": "null",
+      "track": {
+        "type": "GIT",
+        "added": 1680541909.269935,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1603068712.0,
+          "version": "vFINAL",
+          "versionCode": 5,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/gaming/vFINAL_5.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "gboard-dict-3",
+      "name": "Gboard user_dict_3_3 \u8bcd\u5e93",
+      "version": "v2.1.1",
+      "versionCode": 20220513,
+      "author": "entr0pia@GitHub",
+      "description": "\u7528\u6237\u8bcd\u5178 (user_dict_3_3), \u652f\u6301\u7b80\u62fc\u548c\u53cc\u62fc. \u517158053\u4e2a\u8bcd\u6761. \u6839\u636e\u624b\u673a\u6027\u80fd\u4e0d\u540c, \u65b0\u8bcd\u5e93\u9700\u89811\u5206\u949f\u5de6\u53f3\u751f\u6548. \u6d4b\u8bd5\u65b9\u6cd5: \u201c\u5149\u00b7\u9047\u201d. \u82e5\u8bcd\u5e93\u5931\u6548, \u8bf7\u91cd\u65b0\u5237\u5165\u5e76\u9009\u62e9\u6062\u590d; \u518d\u4e0d\u884c\u9009\u62e9\u5168\u65b0\u5b89\u88c5",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541910.816994,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1652409636.0,
+          "version": "v2.1.1",
+          "versionCode": 20220513,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/gboard-dict-3/v2.1.1_20220513.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/gboard-dict-3/v2.1.1_20220513.md"
+        }
+      ]
+    },
+    {
+      "id": "gps-opt-boost",
+      "name": "Optimizing & Boosting GPS",
+      "version": "v1.1",
+      "versionCode": 20,
+      "author": "Oleg_Skalskiy",
+      "description": "Optimizing & Boosting GPS ",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310145.172195,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309762.3085227,
+          "version": "v1.1",
+          "versionCode": 20,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/gps-opt-boost/v1.1_20.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "heimdall-ndk",
+      "name": "Heimdall For Android NDK",
+      "version": "v2.0.2",
+      "versionCode": 202,
+      "author": "JonesqPacMan\u2122",
+      "description": " Heimdall is a tool for flashing firmware (aka ROMs) onto Samsung Galaxy series devices over a USB connection. It accomplishes this using the same protocol as Odin . This static binary support multi architectures built with the NDK",
+      "track": {
+        "type": "GIT",
+        "added": 1680541925.451657,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1659743807.0,
+          "version": "v2.0.2",
+          "versionCode": 202,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/heimdall-ndk/v2.0.2_202.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "huskydg_bootloopsaver",
+      "name": "Magisk Bootloop Protector",
+      "version": "v1.8.1",
+      "versionCode": 10015,
+      "author": "HuskyDG",
+      "description": "Protect your system from bootloop caused by Magisk modules.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690219018.408794,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218861.6690297,
+          "version": "v1.8.1",
+          "versionCode": 10015,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/huskydg_bootloopsaver/v1.8.1_10015.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "iUnlockerIII",
+      "name": "\ud835\udd8e\ud835\udd80\ud835\udd93\ud835\udd91\ud835\udd94\ud835\udd88\ud835\udd90\ud835\udd8a\ud835\udd97 \ufe0f\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd95\ud835\udd99\ud835\udd8a\ud835\udd97 \ud835\udd74\ud835\udd74\ud835\udd74 \ud83c\udf1f#\ud835\udd95\ud835\udd9a\ud835\udd87\ud835\udd91\ud835\udd8e\ud835\udd88",
+      "version": "",
+      "versionCode": 1,
+      "author": "Taylo@V9y_7V3",
+      "description": "",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223092.479804,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218658.5861366,
+          "version": "",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/iUnlockerIII/_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "isodrive",
+      "name": "Isodrive",
+      "version": "1.3",
+      "versionCode": 13,
+      "author": "Marcel Alexandru Nitan",
+      "description": "Use your mobile device to boot Linux distributions/ISO files on your PC",
+      "track": {
+        "type": "GIT",
+        "added": 1686562362.400679,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1685695745.0,
+          "version": "1.2",
+          "versionCode": 12,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/isodrive/1.2_12.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1690236958.0,
+          "version": "1.3",
+          "versionCode": 13,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/isodrive/1.3_13.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "kcal_rvns",
+      "name": "\ud835\udd42\u2102\ud835\udd38\ud835\udd43 \u2119\ud835\udd63\ud835\udd56\ud835\udd64\ud835\udd56\ud835\udd65\ud835\udd64",
+      "version": "1.6.1",
+      "versionCode": 1,
+      "author": "\u262c\u2022\ud835\ude52\u1d07\ud835\ude3c\u0280\u1d07\ud835\ude4d\u1d00\u1d20\u1d07\u0274\ud835\ude4e\u2022",
+      "description": "sRGB & KCAL Presets (command \ud835\ude60\ud835\ude58\ud835\ude56\ud835\ude61).",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223094.068271,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218855.5364769,
+          "version": "1.6.1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/kcal_rvns/1.6.1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "lhroot",
+      "name": "Linux Chroot Installer",
+      "version": "v2.2.0",
+      "versionCode": 1,
+      "author": "FerryAr",
+      "description": "Systemless linux chroot installer and chroot boot script",
+      "track": {
+        "type": "GIT",
+        "added": 1680541934.461731,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1676718135.0,
+          "version": "v2.2.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/lhroot/v2.2.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magic-flash",
+      "name": "Magic FlashTool (Terminal Emulator)",
+      "version": "v1.6",
+      "versionCode": 10006,
+      "author": "HuskyDG",
+      "description": "An android CLI flash tool without custom recoveries. Usage: flash [ZIP...]",
+      "track": {
+        "type": "GIT",
+        "added": 1680541940.093895,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1652933875.0,
+          "version": "v1.6",
+          "versionCode": 10006,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magic-flash/v1.6_10006.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magisk-captive-control",
+      "name": "Magisk Captive Control (MCC)",
+      "version": "v1.0.0",
+      "versionCode": 100,
+      "author": "Atrate",
+      "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541942.177756,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1604596410.0,
+          "version": "v1.0.0",
+          "versionCode": 100,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk-captive-control/v1.0.0_100.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magisk-drm-disabler",
+      "name": "Magisk DRM Disabler (MDD)",
+      "version": "v1.3.1",
+      "versionCode": 131,
+      "author": "Atrate",
+      "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541944.291712,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1612778235.0,
+          "version": "v1.3.1",
+          "versionCode": 131,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk-drm-disabler/v1.3.1_131.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magisk_overlayfs",
+      "name": "Magical Overlayfs",
+      "version": "v3.1.2",
+      "versionCode": 30102,
+      "author": "HuskyDG",
+      "description": "Use OverlayFS to make read-only system partitions become read-write partitions. OverlayFS MUST be supported by kernel!",
+      "track": {
+        "type": "GIT",
+        "added": 1686562396.873108,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1686805349.0,
+          "version": "v3.1.2",
+          "versionCode": 30102,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk_overlayfs/v3.1.2_30102.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magisk_proc_monitor",
+      "name": "Process Monitor Tool",
+      "version": "2.2",
+      "versionCode": 9,
+      "author": "HuskyDG",
+      "description": "Provide the way for modules to run script whenever app process start. More information, please visit http://github.com/huskydg/magisk_proc_monitor",
+      "track": {
+        "type": "GIT",
+        "added": 1680541951.768585,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1674918971.0,
+          "version": "2.2",
+          "versionCode": 9,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk_proc_monitor/2.2_9.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magiskhide",
+      "name": "MagiskHide",
+      "version": "1.10.3",
+      "versionCode": 16,
+      "author": "HuskyDG @MagiskDelta",
+      "description": "Ptrace-based MagiskHide, allows hiding root without need to enable Zygisk. Read DenyList as hidelist. Android 11+ is recommended.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541949.617763,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1677950994.0,
+          "version": "1.10.3",
+          "versionCode": 16,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magiskhide/1.10.3_16.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "microG-GApps",
+      "name": "microG-GApps",
+      "version": "v0.2.28.231657",
+      "versionCode": 29,
+      "author": "Psk.It",
+      "description": "microG, Playstore, Calendar Sync, Contacts Sync ",
+      "track": {
+        "type": "GIT",
+        "added": 1686562403.330229,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1685826920.0,
+          "version": "v0.2.28.231657",
+          "versionCode": 29,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/microG-GApps/v0.2.28.231657_29.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "mkshrc",
+      "name": "Systemless Mkshrc",
+      "version": "1.3.5",
+      "versionCode": 135,
+      "author": "Der_Googler",
+      "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541961.188782,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1685709020.0,
+          "version": "1.3.5",
+          "versionCode": 135,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/mkshrc/1.3.5_135.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "node_on_android",
+      "name": "Systemless Node.js",
+      "version": "1.4.9",
+      "versionCode": 149,
+      "author": "Der_Googler",
+      "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541966.821365,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1689164467.0,
+          "version": "1.4.9",
+          "versionCode": 149,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/node_on_android/1.4.9_149.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "noneDisplayCutout",
+      "name": "NotchBarKiller",
+      "version": "V1",
+      "versionCode": 1,
+      "author": "Amro",
+      "description": "This module hides the notch black bar",
+      "track": {
+        "type": "GIT",
+        "added": 1680541972.348992,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690094011.0,
+          "version": "V1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/noneDisplayCutout/V1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "oneplus-8series-9r-camera-unlocker",
+      "name": "OnePlus 8 Series & 9R Camera Unlocker",
+      "version": "v1.2",
+      "versionCode": 1200,
+      "author": "AnierinB, Cartesian8445, haiderijaz, JeusChrit, Luk1377, shadowstep",
+      "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541975.943228,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1668837132.0,
+          "version": "v1.2",
+          "versionCode": 1200,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.md"
+        }
+      ]
+    },
+    {
+      "id": "oneplus-9-9pro-camera-unlocker",
+      "name": "OnePlus 9 & 9 Pro Camera Unlocker",
+      "version": "v1.2",
+      "versionCode": 1200,
+      "author": "AnierinB, JeusChrit, Cartesian8445, Luk1377, sean6541, shadowstep",
+      "description": "Unlocks face detection and all cameras for use by third party apps on the OnePlus 9 and 9 Pro",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541977.582204,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1677499548.0,
+          "version": "v1.2",
+          "versionCode": 1200,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.md"
+        }
+      ]
+    },
+    {
+      "id": "oneplusdotfix",
+      "name": "OnePlus 5/5T DotFix",
+      "version": "v6.3",
+      "versionCode": 6300,
+      "author": "Arnova8G2, defcomg, MrAimenify, shadowstep",
+      "description": "This module replaces the necessary camera libraries with modified ones which fix the Dotted Pattern Overlay issue, Front Camera HDR-Enhanced as well as Portrait Mode using the Google Camera Mod on the OnePlus 5/5T",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541981.063983,
+        "license": "GPL-2.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673864734.0,
+          "version": "v6.3",
+          "versionCode": 6300,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/oneplusdotfix/v6.3_6300.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/oneplusdotfix/v6.3_6300.md"
+        }
+      ]
+    },
+    {
+      "id": "onfiretweaks",
+      "name": " OnFire Tweaks",
+      "version": "v1.9",
+      "versionCode": 19,
+      "author": "@nonosvaimos",
+      "description": " Adjust device parameters and disable Android logs for optimal performance in daily use.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225394.563611,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223555.2857735,
+          "version": "v1.9",
+          "versionCode": 19,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/onfiretweaks/v1.9_19.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "open_fonts",
+      "name": "Open Fonts",
+      "version": "3.1.1",
+      "versionCode": 119,
+      "author": "F3FFO",
+      "description": "Open Fonts change your system fonts",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541982.658018,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1682263480.0,
+          "version": "3.1.1",
+          "versionCode": 119,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/open_fonts/3.1.1_119.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/open_fonts/3.1.1_119.md"
+        }
+      ]
+    },
+    {
+      "id": "open_webview",
+      "name": "Open Webview",
+      "version": "2.1.0",
+      "versionCode": 104,
+      "author": "F3FFO",
+      "description": "Open Webview change your system webview",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541984.243244,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1682256699.0,
+          "version": "2.1.0",
+          "versionCode": 104,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/open_webview/2.1.0_104.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/open_webview/2.1.0_104.md"
+        }
+      ]
+    },
+    {
+      "id": "pdx213_assistant_camera_remap",
+      "name": "Xperia 10 III GA Button Remapper",
+      "version": "v1.2",
+      "versionCode": 1,
+      "author": "lufei",
+      "description": "Remap the Google Assistant Button as a camera button.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541986.687548,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1661242317.0,
+          "version": "v1.2",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/pdx213_assistant_camera_remap/v1.2_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "playintegrityfix",
+      "name": "Play Integrity Fix",
+      "version": "v4.0",
+      "versionCode": 9,
+      "author": "kdrag0n, Displax, chiteroman",
+      "description": "(Should) Pass all Play Integrity veredicts | Google hates this module \ud83d\ude0e\ud83d\ude1c",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690425524.589383,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690328588.7452676,
+          "version": "v4.0",
+          "versionCode": 9,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v4.0_9.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "qcom_rx_wakelock",
+      "name": "Wifi Bonding Battery Saver [Qcom]",
+      "version": "v3",
+      "versionCode": 3,
+      "author": "simonsmh x \u6c34\u9f99&\u9ece\u6728\u6c50 x @LeanHijosdesusMadres",
+      "description": "This module adds a setting to Wi-Fi, the purpose of this change is to reduce the number of wake ups in standby after WiFi is turned on and disable logs for save battery. @modulostk [telegram]",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225414.844623,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223567.128695,
+          "version": "v1.2",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/qcom_rx_wakelock/v1.2_1.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1690223563.3376715,
+          "version": "v3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/qcom_rx_wakelock/v3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "qdl-ndk",
+      "name": "QDL For Android NDK",
+      "version": "v1.0",
+      "versionCode": 20220806,
+      "author": "JonesqPacMan\u2122",
+      "description": " Qualcomm Download (QDL) is open source flashtool that implements the Qualcomm Sahara and Firehose protocols, and can be used for program (or unbrick) MSM based devices. This static binary support multi architectures built with the NDK",
+      "track": {
+        "type": "GIT",
+        "added": 1680541990.741723,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1659744733.0,
+          "version": "v1.0",
+          "versionCode": 20220806,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/qdl-ndk/v1.0_20220806.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ramphone",
+      "name": "MASTER RAM | ENCHANTED",
+      "version": "v15",
+      "versionCode": 15,
+      "author": "@Anhsnguyetj",
+      "description": "Qu\u1ea3n l\u00fd \u0111a nhi\u1ec7m , gi\u1eef \u1ee9ng d\u1ee5ng t\u1ed1i \u01b0u ram , d\u1ecbch v\u1ee5 ch\u1ea1y n\u1ec1n t\u1ea5t c\u1ea3 1 c\u00e1ch t\u1ed1t nh\u1ea5t",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310155.199279,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690310062.5656369,
+          "version": "v15",
+          "versionCode": 15,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ramphone/v15_15.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "remove_coloros_lanshuai",
+      "name": "Removing ColorOS Negative Optimization",
+      "version": "1.6",
+      "versionCode": 17,
+      "author": "\u541f\u60cb\u516e translated by @modulostk [telegram]",
+      "description": "Only for ColorOS, realmeUI. Other models are not allowed!",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225399.352425,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223631.6195033,
+          "version": "1.6",
+          "versionCode": 17,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/remove_coloros_lanshuai/1.6_17.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "riru_lsposed",
+      "name": "Riru - LSPosed",
+      "version": "v1.8.6 (6715)",
+      "versionCode": 6715,
+      "author": "LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Riru 25.0.1 or above installed.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225386.747952,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223600.2339272,
+          "version": "v1.8.6 (6715)",
+          "versionCode": 6715,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/riru_lsposed/v1.8.6_6715.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "roidroot",
+      "name": " Android T\u1ed1i \u01b0u ho\u00e1",
+      "version": "v2",
+      "versionCode": 2,
+      "author": "@Anhsnguyetj",
+      "description": " T\u1ed1i \u01b0u thay \u0111\u1ed5i cho android t\u1eeb 10 \u0111\u1ebfn 13",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690252192.392234,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690251824.6606405,
+          "version": "v2",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/roidroot/v2_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "rvx_yt",
+      "name": "YouTube RVX",
+      "version": "v18.24.37",
+      "versionCode": 182437,
+      "author": "selfmuser",
+      "description": "YouTube(com.google.android.youtube) Revanced Extended Module",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310159.545789,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690310104.6584795,
+          "version": "v18.24.37",
+          "versionCode": 182437,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/rvx_yt/v18.24.37_182437.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "safetynet-fix",
+      "name": "Universal SafetyNet Fix",
+      "version": "v2.4.0",
+      "versionCode": 20400,
+      "author": "kdrag0n",
+      "description": "A universal fix for SafetyNet and Play Integrity on Android 8\u201313 devices with hardware attestation.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673286512.0,
+          "version": "v2.4.0",
+          "versionCode": 20400,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.md"
+        }
+      ]
+    },
+    {
+      "id": "saturation",
+      "name": "Saturation",
+      "version": "v1.1",
+      "versionCode": 2,
+      "author": "Draco",
+      "description": "Increase the saturation of the panel to 2x.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541996.470392,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1598478612.0,
+          "version": "v1.1",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/saturation/v1.1_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "selinux_mode",
+      "name": "Selinux Mode Changer",
+      "version": "2.6.2",
+      "versionCode": 262,
+      "author": "alicee98",
+      "description": "Change Your Selinux Mode",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541997.952613,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1657442127.0,
+          "version": "2.6.2",
+          "versionCode": 262,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/selinux_mode/2.6.2_262.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/selinux_mode/2.6.2_262.md"
+        }
+      ]
+    },
+    {
+      "id": "sensitive_props",
+      "name": "SafetyNet sensitive props",
+      "version": "v3",
+      "versionCode": 3,
+      "author": "HuskyDG",
+      "description": "Reset sensitive properties to safe state and try to bypass Safetynet / Play Integrity",
+      "track": {
+        "type": "GIT",
+        "added": 1680542000.109128,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1678093152.0,
+          "version": "v3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/sensitive_props/v3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "skiagloptimization",
+      "name": "SkiaGL Optimization [Mod]",
+      "version": "v2-EOL",
+      "versionCode": 1,
+      "author": "@modifyport (telegram)",
+      "description": "Enables SkiaGL more info go to: @modifyport",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223100.662527,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218641.8145182,
+          "version": "v2-EOL",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/skiagloptimization/v2-EOL_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "snaptweak",
+      "name": " Snapdragon optimization",
+      "version": "v10",
+      "versionCode": 10,
+      "author": "@Anhsnguyetj",
+      "description": " CPU - GPU - KENNEL SNAPDRAGON OPTIMIZATION",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310156.571508,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690310033.5784163,
+          "version": "v10",
+          "versionCode": 10,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/snaptweak/v10_10.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ssh",
+      "name": "SSH for Magisk",
+      "version": "v0.16",
+      "versionCode": 15,
+      "author": "D4rCM4rC and Contributors",
+      "description": "OpenSSH and Rsync bundled with simple start scripts for Android with Magisk",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1693351598.668323,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1691227205.0,
+          "version": "v0.16",
+          "versionCode": 15,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ssh/v0.16_15.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ssh/v0.16_15.md"
+        }
+      ]
+    },
+    {
+      "id": "supl-replacer",
+      "name": "A-GPS SUPL replacer",
+      "version": "v2.2.1",
+      "versionCode": 5,
+      "author": "PlqnK, D3SOX",
+      "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680542003.892583,
+        "license": "BSD-3-Clause",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1678882493.0,
+          "version": "v2.2.1",
+          "versionCode": 5,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/supl-replacer/v2.2.1_5.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/supl-replacer/v2.2.1_5.md"
+        }
+      ]
+    },
+    {
+      "id": "swaptorpedo",
+      "name": "Swap Torpedo",
+      "version": "v1.2.1",
+      "versionCode": 4,
+      "author": "EarlyMon @ xda-developers, Dreamer(3MF)",
+      "description": "Universal compressed-memory swap (zram, etc etc) destroyer - run faster and more reliably ",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223103.7907,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690215407.5486708,
+          "version": "v1.1",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/swaptorpedo/v1.1_2.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693728073.9766438,
+          "version": "v1.2.1",
+          "versionCode": 4,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/swaptorpedo/v1.2.1_4.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "systemless-hosts-KernelSU-module",
+      "name": "systemless hosts KernelSU module",
+      "version": "v1.0.5",
+      "versionCode": 105,
+      "author": "symbuzzer (avalibeyaz.com/github)",
+      "description": "Required module to use applications such as AdAway on KernelSU",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690310148.03513,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690309928.9956853,
+          "version": "v1.0.5",
+          "versionCode": 105,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/systemless-hosts-KernelSU-module/v1.0.5_105.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "systemui-bootloop",
+      "name": "SystemUI Bootloop Saver",
+      "version": "v1.0.0",
+      "versionCode": 100,
+      "author": "n3rd3x3",
+      "description": "A Magisk Module that aims to stop SystemUI from bootlooping.",
+      "track": {
+        "type": "GIT",
+        "added": 1680542007.476409,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1643775613.0,
+          "version": "v1.0.0",
+          "versionCode": 100,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/systemui-bootloop/v1.0.0_100.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "trichromelibrary-squoosh",
+      "name": "TrichromeLibrary Squoosh",
+      "version": "v1.4",
+      "versionCode": 20220623,
+      "author": "entr0pia@GitHub",
+      "description": "Remove the outdated TrichromeLibrary after reboot | \u91cd\u542f\u540e\u79fb\u9664\u8fc7\u65f6\u7684 TrichromeLibrary",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680542011.678236,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1655967999.0,
+          "version": "v1.4",
+          "versionCode": 20220623,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/trichromelibrary-squoosh/v1.4_20220623.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ttf-twemoji",
+      "name": "Twemoji replacer",
+      "version": "v14.0.3",
+      "versionCode": 1403,
+      "author": "ez-me & Twitter",
+      "description": "Changes your system emoji to Twemoji!",
+      "track": {
+        "type": "GIT",
+        "added": 1680542013.722605,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1662816153.0,
+          "version": "v14.0.3",
+          "versionCode": 1403,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ttf-twemoji/v14.0.3_1403.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "unityfix",
+      "name": "UnityFix",
+      "version": "5.0",
+      "versionCode": 5,
+      "author": "@LeanHijosdesusMadres [telegram]",
+      "description": "Mejora el rendimiento de Call of Duty Mobile, Genshin Impact y otros juegos de motor Unity \u2022 Improves the performance of Call of Duty Mobile, Genshin Impact and other Unity engine games",
+      "track": {
+        "type": "GIT",
+        "added": 1680542015.813553,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673557361.0,
+          "version": "5.0",
+          "versionCode": 5,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/unityfix/5.0_5.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "universal-gms-doze",
+      "name": "Universal GMS Doze",
+      "version": "1.8.8",
+      "versionCode": 188,
+      "author": "gloeyisk",
+      "description": "Patches Google Play services app and its background processes to be able to use battery optimizations",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690223085.763931,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690218889.0559964,
+          "version": "1.8.8",
+          "versionCode": 188,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/universal-gms-doze/1.8.8_188.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "upx-ndk",
+      "name": "UPX For Android NDK",
+      "version": "v3.96",
+      "versionCode": 396,
+      "author": "JonesqPacMan\u2122",
+      "description": " UPX (Ultimate Packer for Executables) is a free and open source executable packer supporting a number of file formats from different operating systems . This static binary support multi architectures built with the NDK",
+      "track": {
+        "type": "GIT",
+        "added": 1680542017.661028,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1659745041.0,
+          "version": "v3.96",
+          "versionCode": 396,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/upx-ndk/v3.96_396.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "usb-samplerate-unlocker",
+      "name": "USB Samplerate Unlocker",
+      "version": "v1.5.2",
+      "versionCode": 1502,
+      "author": "zyhk",
+      "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
+      "track": {
+        "type": "GIT",
+        "added": 1680542019.723323,
+        "license": "AGPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1680505721.0,
+          "version": "v1.4.1",
+          "versionCode": 1401,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.4.1_1401.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1681301324.0,
+          "version": "v1.5.0",
+          "versionCode": 1500,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.0_1500.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.0_1500.md"
+        },
+        {
+          "timestamp": 1686569585.0,
+          "version": "v1.5.1",
+          "versionCode": 1501,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
+        },
+        {
+          "timestamp": 1691936757.0,
+          "version": "v1.5.2",
+          "versionCode": 1502,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.2_1502.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.2_1502.md"
+        }
+      ]
+    },
+    {
+      "id": "vintf-bypass",
+      "name": "VTS Check Bypass",
+      "version": "v1.1",
+      "versionCode": 2,
+      "author": "Draco",
+      "description": "Disable HAL and Kernel config checks on boot.",
+      "track": {
+        "type": "GIT",
+        "added": 1680542022.801648,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1598025275.0,
+          "version": "v1.1",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/vintf-bypass/v1.1_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "vr25.fbind",
+      "name": "fbind",
+      "version": "v2021.12.6",
+      "versionCode": 202112060,
+      "author": "VR25 @ xda-developers",
+      "description": "fbind is a versatile mounting utility for folders, disk images, LUKS/LUKS2 encrypted volumes, regular partitions and more.",
+      "track": {
+        "type": "GIT",
+        "added": 1680541901.213438,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1638809703.0,
+          "version": "v2021.12.6",
+          "versionCode": 202112060,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/fbind/v2021.12.6_202112060.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "wispmt",
+      "name": "WISP UNIVERSAL THERMAL MOD",
+      "version": "4",
+      "versionCode": 615,
+      "author": "wisprjct",
+      "description": "Wisp Universal Thermal Mod which fix CPU Throttling and Heating issue your phone. join @wisprjct and @wispdiss.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690428296.301004,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690426622.6769857,
+          "version": "4",
+          "versionCode": 615,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/wispmt/4_615.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "xhhttp",
+      "name": "xh for Android",
+      "version": "v0.18.0",
+      "versionCode": 180,
+      "author": "ducaale & Der_Googler",
+      "description": "Friendly and fast tool for sending HTTP requests",
+      "track": {
+        "type": "GIT",
+        "added": 1680542026.215782,
+        "license": "MIT",
+        "homepage": "https://github.com/ducaale/xh",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1678725873.0,
+          "version": "v0.18.0",
+          "versionCode": 180,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/xhhttp/v0.18.0_180.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "xmlpak-RE",
+      "name": "xmlpak-RE \u2013 a road to vendor apps",
+      "version": "v6.0",
+      "versionCode": 60,
+      "author": "Rushi Ranpise ,RKBDI, Tadi (j1505243 at xda)",
+      "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1692473114.97988,
+        "license": "",
+        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690999140.0,
+          "version": "v6.0",
+          "versionCode": 60,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.md"
+        }
+      ]
+    },
+    {
+      "id": "ytmusic_revancedinject",
+      "name": "YouTube Music ReVanced",
+      "version": "5.38.53",
+      "versionCode": 2,
+      "author": "HuskyDG",
+      "description": "YouTube Music ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount",
+      "track": {
+        "type": "GIT",
+        "added": 1686562529.793837,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673338863.0,
+          "version": "5.38.53",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ytmusic_revancedinject/5.38.53_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ytrevancedinject",
+      "name": "YouTube ReVanced",
+      "version": "18.01.36",
+      "versionCode": 4,
+      "author": "HuskyDG",
+      "description": "YouTube ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount",
+      "track": {
+        "type": "GIT",
+        "added": 1680542032.460808,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673704299.0,
+          "version": "18.01.36",
+          "versionCode": 4,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ytrevancedinject/18.01.36_4.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "zram-swap-manager",
+      "name": "zRAM Swap Manager",
+      "version": "v2023.7.17",
+      "versionCode": 202307170,
+      "author": "VR25",
+      "description": "A versatile zRAM swap manager with dynamic swappiness - for Android and GNU/Linux systems.",
+      "track": {
+        "type": "GIT",
+        "added": 1680542034.715106,
+        "license": "GPL-3.0",
+        "homepage": "https://github.com/VR-25/zram-swap-manager",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager.git",
+        "support": "",
+        "donate": "https://patreon.com/VR25"
+      },
+      "versions": [
+        {
+          "timestamp": 1690060098.0,
+          "version": "v2023.7.17",
+          "versionCode": 202307170,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zram-swap-manager/v2023.7.17_202307170.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "zygisk-storage-isolation",
+      "name": "Zygisk - Enhanced mode for Storage Isolation",
+      "version": "v28.1.0",
+      "versionCode": 85,
+      "author": "Rikka",
+      "description": "Enable Enhanced mode for Storage Isolation. This module requires Magisk 24.0+ and Zygisk enabled.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541356.760972,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1679899057.0,
+          "version": "v28.1.0",
+          "versionCode": 85,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk-storage-isolation/v28.1.0_85.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk-storage-isolation/v28.1.0_85.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk-sui",
+      "name": "Zygisk - Sui",
+      "version": "v12.7.2",
+      "versionCode": 300,
+      "author": "Rikka",
+      "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1665741019.0,
+          "version": "v12.7.2",
+          "versionCode": 300,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk-sui/v12.7.2_300.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk-sui/v12.7.2_300.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_cleanerhooks",
+      "name": "Cleaner Hooks",
+      "version": "v1.6",
+      "versionCode": 1156,
+      "author": "Green Mushroom",
+      "description": "Provide hooks for Cleaner. Requires Magisk 24.0+ and Zygisk enabled.",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1690225365.278369,
+        "license": "free",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690223631.7970476,
+          "version": "v1.6",
+          "versionCode": 1156,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_cleanerhooks/v1.6_1156.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "zygisk_clipboard_whitelist",
+      "name": "Zygisk - Clipboard Whitelist",
+      "version": "v24",
+      "versionCode": 24,
+      "author": "Kr328",
+      "description": "Allow apps access clipboard in background.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1675570123.0,
+          "version": "v24",
+          "versionCode": 24,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v24_24.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v24_24.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_ifw_enhance",
+      "name": "Zygisk - IFW Enhance",
+      "version": "v21",
+      "versionCode": 21,
+      "author": "Kr328",
+      "description": "Allows Intent Firewall to filter results of queryIntent(Activities/Services) APIs.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1675569635.0,
+          "version": "v21",
+          "versionCode": 21,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v21_21.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v21_21.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_lsposed",
+      "name": "Zygisk - LSPosed",
+      "version": "v1.9.1 (6990)",
+      "versionCode": 6990,
+      "author": "LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673882223.0,
+          "version": "v1.8.6 (6712)",
+          "versionCode": 6712,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
+        },
+        {
+          "timestamp": 1693323320.0,
+          "version": "v1.9.0 (6986)",
+          "versionCode": 6986,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.0_6986.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.0_6986.md"
+        },
+        {
+          "timestamp": 1693379566.0,
+          "version": "v1.9.1 (6990)",
+          "versionCode": 6990,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.1_6990.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.1_6990.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_shamiko",
+      "name": "Shamiko",
+      "version": "v0.7.3 (174)",
+      "versionCode": 174,
+      "author": "LSPosed Developers",
+      "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1668657230.0,
+          "version": "v0.6 (126)",
+          "versionCode": 126,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.6_(126)_126.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.6_(126)_126.md"
+        },
+        {
+          "timestamp": 1680843186.0,
+          "version": "v0.7 (161)",
+          "versionCode": 161,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7_(161)_161.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7_(161)_161.md"
+        },
+        {
+          "timestamp": 1685850239.0,
+          "version": "v0.7.3 (174)",
+          "versionCode": 174,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7.3_174.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7.3_174.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisksu",
+      "name": "Zygisk on KernelSU",
+      "version": "v4-0.6.4 (73)",
+      "versionCode": 73,
+      "author": "Nullptr, 5ec1cff",
+      "description": "Run Zygisk on KernelSU.",
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1679572814.0,
+          "version": "v4-0.6.4 (73)",
+          "versionCode": 73,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygiskksu/v4-0.6.4_(73)_73.zip",
+          "changelog": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "NAME": "Magisk Repository [Modulostk]",
+  "BASE_URL": "t.me/modulostk",
+  "MAX_NUM": 5,
+  "ENABLE_LOG": true,
+  "LOG_DIR": "log",
+  "ENV": {
+    "CONFIG_VERSION": 1,
+    "TRACK_VERSION": 1
+  }
+}
