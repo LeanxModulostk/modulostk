@@ -378,13 +378,13 @@
   z-index: 5;}
 
   .grad{
-    background-image: linear-gradient(#f58e11, #f7e001);
+    background-image: linear-gradient(#000000, #ffffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
 
   .gradr{
-    background-image: linear-gradient(#004eec, #004eec);
+    background-image: linear-gradient(#ffffff, #ffffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
