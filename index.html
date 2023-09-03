@@ -17,8 +17,8 @@
           <span class="align-items-center" id="repoName"></span>
         </p-->
         <p id="resultado" class="gradb" style="font-size: 20px;"><!--b>VERSION:</b> <span id="version"></span--></p>
-    <strong class="gradb">ULTIMA ACTUALIZACION:</strong> <span class="gradr" id="timestamp"></span>
-    <b class="gradb">LINK DEL REPOSITORIO</b>
+    <strong class="gradb">LAST UPDATE:</strong> <span class="gradr" id="timestamp"></span>
+    <b class="gradb">REPOSITORY LINK</b>
         <div class="caption1" id="publishedByText">
           <span class="gradr" style="font-size: 25px;" id="baseurl"></span>
         </div>
@@ -26,7 +26,7 @@
   </div>
 
   <div class="searchBlock">
-    <fluent-text-field id="searchInput" oninput="searchModules()" placeholder="Search packages..." type="text" autofocus="" class="outline" current-value="" appearance="outline"></fluent-text-field>
+    <fluent-text-field id="searchInput" oninput="searchModules()" placeholder="search modules..." type="text" autofocus="" class="outline" current-value="" appearance="outline"></fluent-text-field>
   </div>
   <fluent-card class="packages">
     <fluent-data-grid id="packageGrid" role="grid" grid-template-columns="1fr 100px 220px" tabindex="0" generate-header="default">
@@ -99,7 +99,7 @@ span.addEventListener('click', function() {
         conteo++;
       }
       // Mostrar el conteo en el elemento HTML
-      resultado.innerHTML = "El repositorio contiene " + conteo + " módulos.";
+      resultado.innerHTML = "The repository contains " + conteo + " modules.";
 
       // Mostrar el listado de módulos
       const modulesList = document.getElementById('modulesList');
