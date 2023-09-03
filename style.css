@@ -11,7 +11,7 @@
   }
   a view{
     text-decoration: none;
-    color:white
+    color:lightskyblue
   }
   
   body {
@@ -390,7 +390,7 @@
   }
 
   .gradb{
-    background-image: linear-gradient(#38e6c5, #9de1fa);
+    background-image: linear-gradient(#ffffff, #ffffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
