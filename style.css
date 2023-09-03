@@ -378,7 +378,7 @@
   z-index: 5;}
 
   .grad{
-    background-image: linear-gradient(#000000, #ffffff);
+    background-image: linear-gradient(#ffffff, #ffffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
