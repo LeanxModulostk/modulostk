@@ -389,7 +389,7 @@
     -webkit-text-fill-color: transparent;
   }
   
-    .gradz{
+  .gradz{
     background-image: linear-gradient(#f58e11, #f7e001);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
