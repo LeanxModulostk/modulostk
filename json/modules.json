@@ -6,54 +6,24 @@
   },
   "modules": [
     {
-      "id": "AFWall-Boot-AntiLeak",
       "name": "AFWall Boot AntiLeak",
-      "version": "v1.3",
-      "versionCode": 4,
+      "version": "GitHub",
       "author": "GrayJackFixxxer",
       "description": "A module to prevent internet access on boot BEFORE AfWall started and applied",
-      "track": {
-        "type": "GIT",
-        "added": 1680541843.891351,
-        "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/issues",
-        "donate": ""
-      },
       "versions": [
         {
-          "timestamp": 1640525162.0,
-          "version": "v1.3",
-          "versionCode": 4,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
-          "changelog": ""
+          "zipUrl": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak"
         }
       ]
     },
     {
-      "id": "AIST",
       "name": "AIST for devices based on Qualcomm",
-      "version": "v1.9",
-      "versionCode": 71,
+      "version": "Telegram",
       "author": "Oleg_Skalskiy",
       "description": "This module Improving Audio Quality On Android & System Tweaks (optional).",
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1690310128.298422,
-        "license": "free",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
       "versions": [
         {
-          "timestamp": 1690309755.375532,
-          "version": "v1.9",
-          "versionCode": 71,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_71.zip",
-          "changelog": ""
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_71.zip"
         }
       ]
     },
